@@ -1,3 +1,7 @@
+# Descr
+
+Just test project to train Nuxt Skills
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -74,8 +78,8 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-
 # Directory Structure
+
 ```
 project-root/
 ├── assets/               # Uncompiled assets like images, fonts, or SCSS files
@@ -108,6 +112,7 @@ project-root/
 ```
 
 ### Description of Folders and Files:
+
 - **`assets/`**: Store uncompiled files like images, fonts, or raw SCSS files.
 - **`components/`**: Houses reusable Vue components.
 - **`data/`**: Contains JSON files or other static data sources.
