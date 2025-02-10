@@ -1,0 +1,1386 @@
+{
+    "facetOptions": [
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Type",
+            "name": "storeDisplayClassification",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 4291,
+                    "displayName": "Full Game",
+                    "key": "FULL_GAME"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 850,
+                    "displayName": "Game Bundle",
+                    "key": "GAME_BUNDLE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 526,
+                    "displayName": "Premium Edition",
+                    "key": "PREMIUM_EDITION"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Price",
+            "name": "webBasePrice",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 103,
+                    "displayName": "Free",
+                    "key": "0-0"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 483,
+                    "displayName": "Under $1.99",
+                    "key": "0-199"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 730,
+                    "displayName": "$2.00 - $4.99",
+                    "key": "200-499"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 992,
+                    "displayName": "$5.00 - $9.99",
+                    "key": "500-999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1378,
+                    "displayName": "$10.00 - $19.99",
+                    "key": "1000-1999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1158,
+                    "displayName": "$20.00 - $39.99",
+                    "key": "2000-3999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 476,
+                    "displayName": "$40.00 - $59.99",
+                    "key": "4000-5999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 225,
+                    "displayName": "$60.00 - $79.99",
+                    "key": "6000-7999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 92,
+                    "displayName": "$80.00 - $99.99",
+                    "key": "8000-9999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 34,
+                    "displayName": "$100.00 - $129.99",
+                    "key": "10000-12999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 7,
+                    "displayName": "$130.00 - $149.99",
+                    "key": "13000-14999"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Genre",
+            "name": "productGenres",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1862,
+                    "displayName": "Action",
+                    "key": "ACTION"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1472,
+                    "displayName": "Adventure",
+                    "key": "ADVENTURE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 703,
+                    "displayName": "Casual",
+                    "key": "CASUAL"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 671,
+                    "displayName": "Puzzle",
+                    "key": "PUZZLE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 650,
+                    "displayName": "Arcade",
+                    "key": "ARCADE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 626,
+                    "displayName": "Role Playing Games",
+                    "key": "ROLE_PLAYING_GAMES"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 427,
+                    "displayName": "Simulation",
+                    "key": "SIMULATION"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 422,
+                    "displayName": "Shooter",
+                    "key": "SHOOTER"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 347,
+                    "displayName": "Strategy",
+                    "key": "STRATEGY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 346,
+                    "displayName": "Horror",
+                    "key": "HORROR"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 292,
+                    "displayName": "Driving/Racing",
+                    "key": "RACING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 273,
+                    "displayName": "Family",
+                    "key": "FAMILY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 250,
+                    "displayName": "Sport",
+                    "key": "SPORTS"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 236,
+                    "displayName": "Unique",
+                    "key": "UNIQUE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 131,
+                    "displayName": "Fighting",
+                    "key": "FIGHTING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 113,
+                    "displayName": "Party",
+                    "key": "PARTY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 110,
+                    "displayName": "Simulator",
+                    "key": "SIMULATOR"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 87,
+                    "displayName": "Music/Rhythm",
+                    "key": "MUSIC/RHYTHM"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 71,
+                    "displayName": "Adult",
+                    "key": "ADULT"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 60,
+                    "displayName": "Brain Training",
+                    "key": "BRAIN_TRAINING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 37,
+                    "displayName": "Educational",
+                    "key": "EDUCATIONAL"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 13,
+                    "displayName": "Fitness",
+                    "key": "FITNESS"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 10,
+                    "displayName": "Quiz",
+                    "key": "QUIZ"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Platform",
+            "name": "targetPlatforms",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 5667,
+                    "displayName": "PS5",
+                    "key": "PS5"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 3042,
+                    "displayName": "PS4",
+                    "key": "PS4"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Supported Features",
+            "name": "productCompatibilityNotices",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 174,
+                    "displayName": "PS5 Pro Enhanced",
+                    "key": "GRAPHICS_ENHANCED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1680,
+                    "displayName": "Remote Play",
+                    "key": "REMOTE_PLAY_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 224,
+                    "displayName": "Game Help",
+                    "key": "GAME_HELP_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1039,
+                    "displayName": "Local Multiplayer",
+                    "key": "LOCAL_MULTI_PLAYER_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1077,
+                    "displayName": "Online Multiplayer",
+                    "key": "ONLINE_MULTI_PLAYER_SUPPORTED"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Release Date",
+            "name": "productReleaseDate",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 104,
+                    "displayName": "Just Released",
+                    "key": "last_thirty_days"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 25,
+                    "displayName": "Coming soon",
+                    "key": "next_thirty_days"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "VR",
+            "name": "productVrCompatibility",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 323,
+                    "displayName": "PS VR2",
+                    "key": "PSVR2"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 29,
+                    "displayName": "PS VR",
+                    "key": "PSVR"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Age Rating",
+            "name": "ageRating",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1858,
+                    "displayName": "Everyone",
+                    "key": "ESRB_EVERYONE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 990,
+                    "displayName": "Everyone 10+",
+                    "key": "ESRB_EVERYONE_10"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1683,
+                    "displayName": "Teen",
+                    "key": "ESRB_TEEN"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 368,
+                    "displayName": "Mature",
+                    "key": "ESRB_MATURE_17"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Type",
+            "name": "storeDisplayClassification",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 7618,
+                    "displayName": "Full Game",
+                    "key": "FULL_GAME"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 62,
+                    "displayName": "Premium Edition",
+                    "key": "PREMIUM_EDITION"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 3,
+                    "displayName": "Soundtrack",
+                    "key": "SOUNDTRACK"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "Demo",
+                    "key": "DEMO"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "Game App",
+                    "key": "GAME_APPLICATION"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Price",
+            "name": "webBasePrice",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 145,
+                    "displayName": "Free",
+                    "key": "0-0"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1083,
+                    "displayName": "Under $1.99",
+                    "key": "0-199"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1264,
+                    "displayName": "$2.00 - $4.99",
+                    "key": "200-499"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2094,
+                    "displayName": "$5.00 - $9.99",
+                    "key": "500-999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2212,
+                    "displayName": "$10.00 - $19.99",
+                    "key": "1000-1999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 804,
+                    "displayName": "$20.00 - $39.99",
+                    "key": "2000-3999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 194,
+                    "displayName": "$40.00 - $59.99",
+                    "key": "4000-5999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "$60.00 - $79.99",
+                    "key": "6000-7999"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Genre",
+            "name": "productGenres",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2599,
+                    "displayName": "Action",
+                    "key": "ACTION"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1872,
+                    "displayName": "Adventure",
+                    "key": "ADVENTURE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1095,
+                    "displayName": "Arcade",
+                    "key": "ARCADE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 805,
+                    "displayName": "Casual",
+                    "key": "CASUAL"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 756,
+                    "displayName": "Puzzle",
+                    "key": "PUZZLE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 706,
+                    "displayName": "Shooter",
+                    "key": "SHOOTER"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 676,
+                    "displayName": "Role Playing Games",
+                    "key": "ROLE_PLAYING_GAMES"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 653,
+                    "displayName": "Simulation",
+                    "key": "SIMULATION"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 449,
+                    "displayName": "Strategy",
+                    "key": "STRATEGY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 352,
+                    "displayName": "Driving/Racing",
+                    "key": "RACING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 347,
+                    "displayName": "Unique",
+                    "key": "UNIQUE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 342,
+                    "displayName": "Family",
+                    "key": "FAMILY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 339,
+                    "displayName": "Sport",
+                    "key": "SPORTS"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 322,
+                    "displayName": "Horror",
+                    "key": "HORROR"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 231,
+                    "displayName": "Fighting",
+                    "key": "FIGHTING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 194,
+                    "displayName": "Simulator",
+                    "key": "SIMULATOR"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 144,
+                    "displayName": "Party",
+                    "key": "PARTY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 120,
+                    "displayName": "Brain Training",
+                    "key": "BRAIN_TRAINING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 87,
+                    "displayName": "Music/Rhythm",
+                    "key": "MUSIC/RHYTHM"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 73,
+                    "displayName": "Quiz",
+                    "key": "QUIZ"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 67,
+                    "displayName": "Educational",
+                    "key": "EDUCATIONAL"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 25,
+                    "displayName": "Adult",
+                    "key": "ADULT"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 8,
+                    "displayName": "Fitness",
+                    "key": "FITNESS"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 3,
+                    "displayName": "Board Game",
+                    "key": "BOARD_GAMES"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Platform",
+            "name": "targetPlatforms",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 7687,
+                    "displayName": "PS4",
+                    "key": "PS4"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Supported Features",
+            "name": "productCompatibilityNotices",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "PS5 Pro Enhanced",
+                    "key": "GRAPHICS_ENHANCED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1748,
+                    "displayName": "Remote Play",
+                    "key": "REMOTE_PLAY_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 3,
+                    "displayName": "Game Help",
+                    "key": "GAME_HELP_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1580,
+                    "displayName": "Local Multiplayer",
+                    "key": "LOCAL_MULTI_PLAYER_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 987,
+                    "displayName": "Online Multiplayer",
+                    "key": "ONLINE_MULTI_PLAYER_SUPPORTED"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Release Date",
+            "name": "productReleaseDate",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 53,
+                    "displayName": "Just Released",
+                    "key": "last_thirty_days"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "Coming soon",
+                    "key": "next_thirty_days"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "VR",
+            "name": "productVrCompatibility",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "PS VR2",
+                    "key": "PSVR2"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 462,
+                    "displayName": "PS VR",
+                    "key": "PSVR"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Age Rating",
+            "name": "ageRating",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "Early Childhood",
+                    "key": "ESRB_EARLY_CHILDHOOD"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 3144,
+                    "displayName": "Everyone",
+                    "key": "ESRB_EVERYONE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1486,
+                    "displayName": "Everyone 10+",
+                    "key": "ESRB_EVERYONE_10"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2078,
+                    "displayName": "Teen",
+                    "key": "ESRB_TEEN"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 108,
+                    "displayName": "Mature",
+                    "key": "ESRB_MATURE_17"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Type",
+            "name": "storeDisplayClassification",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 490,
+                    "displayName": "Full Game",
+                    "key": "FULL_GAME"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 36,
+                    "displayName": "Game Bundle",
+                    "key": "GAME_BUNDLE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 15,
+                    "displayName": "Add-On Pack",
+                    "key": "ADD-ON_PACK"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 13,
+                    "displayName": "Premium Edition",
+                    "key": "PREMIUM_EDITION"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 12,
+                    "displayName": "Add-on",
+                    "key": "OTHER"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "Demo",
+                    "key": "DEMO"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "Bundle",
+                    "key": "BUNDLE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "Game App",
+                    "key": "GAME_APPLICATION"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Price",
+            "name": "webBasePrice",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 17,
+                    "displayName": "Free",
+                    "key": "0-0"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 29,
+                    "displayName": "Under $1.99",
+                    "key": "0-199"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 32,
+                    "displayName": "$2.00 - $4.99",
+                    "key": "200-499"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 104,
+                    "displayName": "$5.00 - $9.99",
+                    "key": "500-999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 255,
+                    "displayName": "$10.00 - $19.99",
+                    "key": "1000-1999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 117,
+                    "displayName": "$20.00 - $39.99",
+                    "key": "2000-3999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 12,
+                    "displayName": "$40.00 - $59.99",
+                    "key": "4000-5999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "$60.00 - $79.99",
+                    "key": "6000-7999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 3,
+                    "displayName": "$80.00 - $99.99",
+                    "key": "8000-9999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "$100.00 - $129.99",
+                    "key": "10000-12999"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "$130.00 - $149.99",
+                    "key": "13000-14999"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Genre",
+            "name": "productGenres",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 212,
+                    "displayName": "Action",
+                    "key": "ACTION"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 160,
+                    "displayName": "Adventure",
+                    "key": "ADVENTURE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 90,
+                    "displayName": "Shooter",
+                    "key": "SHOOTER"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 62,
+                    "displayName": "Simulation",
+                    "key": "SIMULATION"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 60,
+                    "displayName": "Arcade",
+                    "key": "ARCADE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 57,
+                    "displayName": "Puzzle",
+                    "key": "PUZZLE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 51,
+                    "displayName": "Horror",
+                    "key": "HORROR"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 43,
+                    "displayName": "Casual",
+                    "key": "CASUAL"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 34,
+                    "displayName": "Family",
+                    "key": "FAMILY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 30,
+                    "displayName": "Sport",
+                    "key": "SPORTS"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 30,
+                    "displayName": "Unique",
+                    "key": "UNIQUE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 28,
+                    "displayName": "Music/Rhythm",
+                    "key": "MUSIC/RHYTHM"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 24,
+                    "displayName": "Driving/Racing",
+                    "key": "RACING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 19,
+                    "displayName": "Role Playing Games",
+                    "key": "ROLE_PLAYING_GAMES"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 18,
+                    "displayName": "Party",
+                    "key": "PARTY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 15,
+                    "displayName": "Strategy",
+                    "key": "STRATEGY"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 11,
+                    "displayName": "Educational",
+                    "key": "EDUCATIONAL"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 11,
+                    "displayName": "Simulator",
+                    "key": "SIMULATOR"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 8,
+                    "displayName": "Fitness",
+                    "key": "FITNESS"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 7,
+                    "displayName": "Fighting",
+                    "key": "FIGHTING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "Adult",
+                    "key": "ADULT"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "Brain Training",
+                    "key": "BRAIN_TRAINING"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "Quiz",
+                    "key": "QUIZ"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Platform",
+            "name": "targetPlatforms",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 567,
+                    "displayName": "PS4",
+                    "key": "PS4"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 35,
+                    "displayName": "PS5",
+                    "key": "PS5"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Supported Features",
+            "name": "productCompatibilityNotices",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 2,
+                    "displayName": "PS5 Pro Enhanced",
+                    "key": "GRAPHICS_ENHANCED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 40,
+                    "displayName": "Remote Play",
+                    "key": "REMOTE_PLAY_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 4,
+                    "displayName": "Game Help",
+                    "key": "GAME_HELP_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 29,
+                    "displayName": "Local Multiplayer",
+                    "key": "LOCAL_MULTI_PLAYER_SUPPORTED"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 102,
+                    "displayName": "Online Multiplayer",
+                    "key": "ONLINE_MULTI_PLAYER_SUPPORTED"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "VR",
+            "name": "productVrCompatibility",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 22,
+                    "displayName": "PS VR2",
+                    "key": "PSVR2"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 570,
+                    "displayName": "PS VR",
+                    "key": "PSVR"
+                }
+            ]
+        },
+        {
+            "__typename": "CategoryFacet",
+            "displayName": "Age Rating",
+            "name": "ageRating",
+            "values": [
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 1,
+                    "displayName": "Early Childhood",
+                    "key": "ESRB_EARLY_CHILDHOOD"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 174,
+                    "displayName": "Everyone",
+                    "key": "ESRB_EVERYONE"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 114,
+                    "displayName": "Everyone 10+",
+                    "key": "ESRB_EVERYONE_10"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 183,
+                    "displayName": "Teen",
+                    "key": "ESRB_TEEN"
+                },
+                {
+                    "__typename": "CategoryFacetValue",
+                    "count": 12,
+                    "displayName": "Mature",
+                    "key": "ESRB_MATURE_17"
+                }
+            ]
+        }
+    ],
+    "localizedNames": [
+        "cat.gma.x_All_PS5_games",
+        "cat.gma.x_PS_Plus_Monthly_Games",
+        "cat.gma.x_All_PS4_games",
+        "cat.gma.AllDeals",
+        "cat.gma.PlayStationVR"
+    ],
+    "sortingOptions": [
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Best Selling",
+            "isAscending": false,
+            "name": "sales30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Most Downloaded",
+            "isAscending": false,
+            "name": "downloads30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (A - Z)",
+            "isAscending": true,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (Z - A)",
+            "isAscending": false,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (Old - New)",
+            "isAscending": true,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (New - Old)",
+            "isAscending": false,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (Low - High)",
+            "isAscending": true,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (High - Low)",
+            "isAscending": false,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Default",
+            "isAscending": true,
+            "name": "default"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Best Selling",
+            "isAscending": false,
+            "name": "sales30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Most Downloaded",
+            "isAscending": false,
+            "name": "downloads30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (A - Z)",
+            "isAscending": true,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (Z - A)",
+            "isAscending": false,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (Old - New)",
+            "isAscending": true,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (New - Old)",
+            "isAscending": false,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (Low - High)",
+            "isAscending": true,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (High - Low)",
+            "isAscending": false,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Best Selling",
+            "isAscending": false,
+            "name": "sales30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Most Downloaded",
+            "isAscending": false,
+            "name": "downloads30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (A - Z)",
+            "isAscending": true,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (Z - A)",
+            "isAscending": false,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (Old - New)",
+            "isAscending": true,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (New - Old)",
+            "isAscending": false,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (Low - High)",
+            "isAscending": true,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (High - Low)",
+            "isAscending": false,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Default",
+            "isAscending": true,
+            "name": "default"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Best Selling",
+            "isAscending": false,
+            "name": "sales30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Most Downloaded",
+            "isAscending": false,
+            "name": "downloads30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (A - Z)",
+            "isAscending": true,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (Z - A)",
+            "isAscending": false,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (Old - New)",
+            "isAscending": true,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (New - Old)",
+            "isAscending": false,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (Low - High)",
+            "isAscending": true,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (High - Low)",
+            "isAscending": false,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Best Selling",
+            "isAscending": false,
+            "name": "sales30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Most Downloaded",
+            "isAscending": false,
+            "name": "downloads30"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (A - Z)",
+            "isAscending": true,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Name (Z - A)",
+            "isAscending": false,
+            "name": "productName"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (Old - New)",
+            "isAscending": true,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Release Date (New - Old)",
+            "isAscending": false,
+            "name": "productReleaseDate"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (Low - High)",
+            "isAscending": true,
+            "name": "webBasePrice"
+        },
+        {
+            "__typename": "CategorySortingOption",
+            "displayName": "Price (High - Low)",
+            "isAscending": false,
+            "name": "webBasePrice"
+        }
+    ]
+}
